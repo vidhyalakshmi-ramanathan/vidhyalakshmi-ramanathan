@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 Hey, welcome to my little corner of GitHub!
 
----
-
 I'm a Software Engineer working in B2B Fintech.
 
 ## a little about what I do
