@@ -30,6 +30,7 @@ I'm a Software Engineer working in B2B Fintech. Here's a little about me, both o
 
 ## lately, i've been...
 Looking for a software engineering role · Picking up a few projects
+Know of an opening? Feel free to reach out! ✉️
 
 ## things i work with 🛠️
 
@@ -58,19 +59,22 @@ Looking for a software engineering role · Picking up a few projects
 
 Outside of work, I probably sketch something, wander down a [Pinterest](https://pinterest.com) rabbit hole, or play around with Canva and UI designs.
 
-Came for one pin, stayed for a hundred 😅. Occasionally lost on Pinterest.
+Came for one pin, stayed for a hundred 😅. Occasionally lost on Pinterest!
 
 *Between logic and creativity ⭐*
 
 ## socials 🔗
 <ul>
-  <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyalakshmi-ramanathan)</li>
+  <li>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyalakshmi-ramanathan)
+  
+  </li>
 </ul>
 
 ## a little thought to leave you with 💭
-Anyone can cook! ✦ - Ratatouille
+Anyone can cook! - Ratatouille ✦
 
 <p align="center">
-<i>explore my repositories! </i>
-<i>Thanks for stopping by. Have a lovely day ✨</i>
+<i>Explore my repositories! Thanks for stopping by. Have a lovely day! ✨</i>
 </p>
