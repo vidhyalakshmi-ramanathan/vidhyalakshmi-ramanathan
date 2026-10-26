@@ -33,13 +33,14 @@ I'm a Software Engineer working in B2B Fintech.
 <p><strong>Languages</strong></p>
 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javaScript?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python?style=flat&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
 
 <p><strong>Frontend & Backend</strong></p>
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![React JS](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=blue)
 ![Material UI](https://img.shields.io/badge/MUI?style=flat&logo=mui&logoColor=007FFF)
@@ -48,6 +49,7 @@ I'm a Software Engineer working in B2B Fintech.
 ![WebSockets](https://img.shields.io/badge/WebSockets?style=flat&logo=socketdotio&logoColor=222222)
 
 <p><strong>Design & Tools</strong></p>
+
 ![GitHub](https://img.shields.io/badge/github?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman?style=flat&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva?style=flat&logo=canva&logoColor=white)
@@ -64,7 +66,8 @@ Outside of writing code, I'm probably sketch something, wandering down a Pintere
 
 ## socials
 <p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyalakshmi-ramanathan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyalakshmi-ramanathan)
+
 </p>
 explore my repositories!
 
