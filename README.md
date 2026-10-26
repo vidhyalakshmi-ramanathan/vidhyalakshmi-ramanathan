@@ -13,26 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <strong>Hey, I'm Vidhya! 👋</strong>
-</p>
-<p align="center"><em> Software Engineer · Designer · Artist </em></p>
+<h3 align="center">Hey, I'm Vidhya! 👋</h3>
 
 Hey, welcome to my little corner of GitHub!
 
 ---
 
-I'm a Software Engineer working in B2B Fintech.
+I'm a Software Engineer working in B2B Fintech. Here's a little about me, both on and off the screen.
 
-## a little about what I do
+## a little about what i do
 <ul>
-  <li>💻 <strong>Engineering</strong> — write code</li>
-  <li>✏️ <strong>Designing</strong> — make time for sketches & doodles.</li>
-  <li>🔍 <strong>Exploring</strong> — learning on the new techs & stuffs.</li>
+  <li>💻 <strong>Engineering</strong> -  writing code, solving problems, and making things work.</li>
+  <li>✏️ <strong>Designing</strong> - making time for sketches & doodles.</li>
+  <li>🔍 <strong>Exploring</strong> - learning new tech & random interests.</li>
 </ul>
 
-## 🛠️ things I work with
-<p><strong>Languages</strong></p>
+## Lately, i've been...
+Picking up a few projects · Looking for a software engineering role
+
+## things i work with 🛠️
+
+<p><strong>Tech</strong></p>
 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typscript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -40,32 +41,28 @@ I'm a Software Engineer working in B2B Fintech.
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
-
-<p><strong>Frontend & Backend</strong></p>
-
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![React JS](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=%2361DAFB)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192?style=flat&logo=postgresql&logoColor=white)
 
-<p><strong>Design & Tools</strong></p>
+<p><strong>Design & tools</strong></p>
 
 ![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white)
 
-## Lately, i've been...
-Picking up a few projects · Looking for a software engineering role
+## 🎨 after hours
 
-## 🎨 beyond code
+Outside of work, I probably sketch something, wander down a Pinterest rabbit hole, or playing around with Canva and UI designs. Just one more pin. ♡
 
-Outside of writing code, I'm probably sketch something, wandering down a Pinterest rabbit hole, or playing around with Canva and UI designs. You know, just one more pin. ♡
+came for one pin, stayed for a hundred. occasionally lost on Pinterest ⭐
 
-*Between logic and creativity ⭐*
+*Between logic and creativity*
 
-## socials
+## socials 🔗
 <p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyalakshmi-ramanathan)
@@ -74,7 +71,7 @@ Outside of writing code, I'm probably sketch something, wandering down a Pintere
 explore my repositories!
 
 ## a little thought to leave you with 💭
-✦
+Anyone can cook!✦
 
 <p align="center">
 <i>Thanks for stopping by. Have a lovely day ✨</i>
