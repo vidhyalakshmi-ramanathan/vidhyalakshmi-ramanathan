@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center"> Hey, I'm Vidhya! 👋 </h2>
-
 <p align="center"><em> Software Engineer · Designer · Artist </em></p>
 
 Hey, welcome to my little corner of GitHub!
@@ -25,7 +24,7 @@ I'm a Software Engineer working in B2B Fintech.
 
 ## a little about what I do
 <ul>
-  <li>💻 <strong>Engineering</strong> — write code and build things.</li>
+  <li>💻 <strong>Engineering</strong> — write code</li>
   <li>✏️ <strong>Designing</strong> — make time for sketches & doodles.</li>
   <li>🔍 <strong>Exploring</strong> — learning on the new techs & stuffs.</li>
 </ul>
@@ -33,8 +32,8 @@ I'm a Software Engineer working in B2B Fintech.
 ## 🛠️ things I work with
 <p><strong>Languages</strong></p>
 
-![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typeScript?style=flat&logo=typescript&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javaScript?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python?style=flat&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5?style=flat&logo=html5&logoColor=white)
@@ -55,17 +54,17 @@ I'm a Software Engineer working in B2B Fintech.
 ![Pinterest](https://img.shields.io/badge/Pinterest-%BD081C?style=flat&logo=pinterest&logoColor=white)
 
 ## Lately, i've been...
-Picking up projects · Looking for a software engineering role
+Picking up a few projects · Looking for a software engineering role
 
 ## 🎨 beyond code
 
-Outside of writing code, I'm probably creating sketch something, wandering down a Pinterest rabbit hole, or playing around with Canva or UI designs. You know, just one more pin. ♡
+Outside of writing code, I'm probably sketch something, wandering down a Pinterest rabbit hole, or playing around with Canva and UI designs. You know, just one more pin. ♡
 
 *Between logic and creativity ⭐*
 
 ## socials
 <p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyalakshmi-ramanathan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyalakshmi-ramanathan)
 </p>
 explore my repositories!
 
