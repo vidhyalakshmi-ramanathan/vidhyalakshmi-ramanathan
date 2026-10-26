@@ -13,23 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Hey, I'm Vidhya! 👋</h3>
+<h3 align="center">Hello, I'm Vidhya! 👋</h3>
+<p align="center"><sub>Software Engineer · Artist</sub></p>
 
 Hey, welcome to my little corner of GitHub!
 
 ---
 
-I'm a Software Engineer working in B2B Fintech. Here's a little about me, both on and off the screen.
+I'm a Software Engineer working in B2B Fintech. Here's a little about me, both on and off the screen. "Always searching for the perfect balance between a clean pull request and an aesthetic color palette."
 
-## a little about what i do
+## a little of what i do
 <ul>
-  <li>💻 <strong>Engineering</strong> -  writing code, solving problems, and making things work.</li>
+  <li>💻 <strong>Engineering</strong> - writing code, fixing bugs, raising PRs, and making things work.(learning as I go)</li>
   <li>✏️ <strong>Designing</strong> - making time for sketches & doodles.</li>
   <li>🔍 <strong>Exploring</strong> - learning new tech & random interests.</li>
 </ul>
 
 ## Lately, i've been...
-Picking up a few projects · Looking for a software engineering role
+Looking for a software engineering role · Picking up a few projects
 
 ## things i work with 🛠️
 
@@ -56,7 +57,7 @@ Picking up a few projects · Looking for a software engineering role
 
 ## 🎨 after hours
 
-Outside of work, I probably sketch something, wander down a Pinterest rabbit hole, or playing around with Canva and UI designs. Just one more pin. ♡
+Outside of work, I probably sketch something, wander down a [Pinterest](https://pinterest.com) rabbit hole, or play around with Canva and UI designs. Just one more pin. ♡
 
 came for one pin, stayed for a hundred. occasionally lost on Pinterest ⭐
 
@@ -71,7 +72,7 @@ came for one pin, stayed for a hundred. occasionally lost on Pinterest ⭐
 explore my repositories!
 
 ## a little thought to leave you with 💭
-Anyone can cook!✦
+Anyone can cook!✦ - Ratatouille
 
 <p align="center">
 <i>Thanks for stopping by. Have a lovely day ✨</i>
