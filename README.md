@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> Hey, I'm Vidhya! 👋 </h2>
+<h2 align="center">Hey, I'm Vidhya! 👋</h2>
+
 <p align="center"><em> Software Engineer · Designer · Artist </em></p>
 
 Hey, welcome to my little corner of GitHub!
