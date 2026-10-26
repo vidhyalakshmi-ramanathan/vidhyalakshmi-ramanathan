@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hey, I'm Vidhya! 👋</h2>
-
+<p align="center">
+  <strong>Hey, I'm Vidhya! 👋</strong>
+</p>
 <p align="center"><em> Software Engineer · Designer · Artist </em></p>
 
 Hey, welcome to my little corner of GitHub!
+
+---
 
 I'm a Software Engineer working in B2B Fintech.
 
