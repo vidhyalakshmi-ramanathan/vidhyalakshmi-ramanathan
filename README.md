@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Hello, I'm Vidhya! 👋</h3>
-<p align="center"><sub>Software Engineer · Artist</sub></p>
 
-Hey, welcome to my little corner of GitHub!
+Welcome to my little corner of GitHub!
 
 ---
 
@@ -24,12 +23,12 @@ I'm a Software Engineer working in B2B Fintech. Here's a little about me, both o
 
 ## a little of what i do
 <ul>
-  <li>💻 <strong>Engineering</strong> - writing code, fixing bugs, raising PRs, and making things work.(learning as I go)</li>
+  <li>💻 <strong>Engineering</strong> - writing code, fixing bugs, raising PRs, and making things work. (learning as I go)</li>
   <li>✏️ <strong>Designing</strong> - making time for sketches & doodles.</li>
   <li>🔍 <strong>Exploring</strong> - learning new tech & random interests.</li>
 </ul>
 
-## Lately, i've been...
+## lately, i've been...
 Looking for a software engineering role · Picking up a few projects
 
 ## things i work with 🛠️
@@ -55,25 +54,23 @@ Looking for a software engineering role · Picking up a few projects
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white)
 
-## 🎨 after hours
+## ⏳ after hours
 
-Outside of work, I probably sketch something, wander down a [Pinterest](https://pinterest.com) rabbit hole, or play around with Canva and UI designs. Just one more pin. ♡
+Outside of work, I probably sketch something, wander down a [Pinterest](https://pinterest.com) rabbit hole, or play around with Canva and UI designs.
 
-came for one pin, stayed for a hundred. occasionally lost on Pinterest ⭐
+Came for one pin, stayed for a hundred 😅. Occasionally lost on Pinterest.
 
-*Between logic and creativity*
+*Between logic and creativity ⭐*
 
 ## socials 🔗
-<p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyalakshmi-ramanathan)
-
-</p>
-explore my repositories!
+<ul>
+  <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyalakshmi-ramanathan)</li>
+</ul>
 
 ## a little thought to leave you with 💭
-Anyone can cook!✦ - Ratatouille
+Anyone can cook! ✦ - Ratatouille
 
 <p align="center">
+<i>explore my repositories! </i>
 <i>Thanks for stopping by. Have a lovely day ✨</i>
 </p>
