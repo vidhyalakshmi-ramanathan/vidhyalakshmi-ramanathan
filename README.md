@@ -32,28 +32,27 @@ I'm a Software Engineer working in B2B Fintech.
 ## 🛠️ things I work with
 <p><strong>Languages</strong></p>
 
-![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typscript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
 
 <p><strong>Frontend & Backend</strong></p>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![React JS](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=blue)
-![Material UI](https://img.shields.io/badge/MUI?style=flat&logo=mui&logoColor=007FFF)
-![Flask](https://img.shields.io/badge/Flask?style=flat&logo=flask&logoColor=blue)
+![React JS](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=%2361DAFB)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192?style=flat&logo=postgresql&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets?style=flat&logo=socketdotio&logoColor=222222)
 
 <p><strong>Design & Tools</strong></p>
 
-![GitHub](https://img.shields.io/badge/github?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman?style=flat&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva?style=flat&logo=canva&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-%BD081C?style=flat&logo=pinterest&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat&logo=pinterest&logoColor=white)
 
 ## Lately, i've been...
 Picking up a few projects · Looking for a software engineering role
@@ -66,6 +65,7 @@ Outside of writing code, I'm probably sketch something, wandering down a Pintere
 
 ## socials
 <p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vidhyalakshmi-ramanathan)
 
 </p>
