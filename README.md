@@ -20,6 +20,7 @@ Welcome to my little corner of GitHub!
 ---
 
 I'm a Software Engineer working in B2B Fintech. Here's a little about me, both on and off the screen.
+
 *"Always searching for the perfect balance between a clean pull request and an aesthetic color palette."*
 
 ## a little of what i do
