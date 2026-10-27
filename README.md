@@ -21,9 +21,7 @@ Welcome to my little corner of GitHub!
 
 I'm a Software Engineer working in B2B Fintech. Here's a little about me, both on and off the screen.
 
-<span style="color: purple;">
-  *"Always searching for the perfect balance between a clean pull request and an aesthetic color palette."*
-</span>
+*"Always searching for the perfect balance between a clean pull request and an aesthetic color palette."*
 
 ## a little of what i do
 <ul>
@@ -64,9 +62,7 @@ Outside of work, I probably sketch something, wander down a [Pinterest](https://
 
 Came for one pin, stayed for a hundred 😅. Occasionally lost on Pinterest!
 
-<span style="color: purple;">
-  *Between logic and creativity ⭐*
-</span>
+*Between logic and creativity ⭐*
 
 ## socials 🔗
 <ul>
