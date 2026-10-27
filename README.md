@@ -21,18 +21,19 @@ Welcome to my little corner of GitHub!
 
 I'm a Software Engineer working in B2B Fintech. Here's a little about me, both on and off the screen.
 
-*"Always searching for the perfect balance between a clean pull request and an aesthetic color palette."*
+<span style="color: purple;">
+  *"Always searching for the perfect balance between a clean pull request and an aesthetic color palette."*
+</span>
 
 ## a little of what i do
 <ul>
   <li>💻 <strong>Engineering</strong> - writing code, fixing bugs, raising PRs, and making things work. (learning as I go)</li>
   <li>✏️ <strong>Designing</strong> - making time for sketches & doodles.</li>
-  <li>🔍 <strong>Exploring</strong> - learning new tech & random interests.</li>
+  <li>🔍 <strong>Exploring</strong> - learning new tech & random interests 😄.</li>
 </ul>
 
 ## lately, i've been...
-Looking for a software engineering role · Picking up a few projects
-Know of an opening? Feel free to reach out! ✉️
+Looking for a software engineering role · Picking up a few projects ( Know of an opening? Feel free to reach out! ✉️ )
 
 ## things i work with 🛠️
 
@@ -63,7 +64,9 @@ Outside of work, I probably sketch something, wander down a [Pinterest](https://
 
 Came for one pin, stayed for a hundred 😅. Occasionally lost on Pinterest!
 
-*Between logic and creativity ⭐*
+<span style="color: purple;">
+  *Between logic and creativity ⭐*
+</span>
 
 ## socials 🔗
 <ul>
